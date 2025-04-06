@@ -17,35 +17,47 @@ permalink: /
 ## Featured Projects {#featured-projects}
 <div class="project-grid">
   <div class="project-card">
-    <h3><a href="/2025/04/01/featured-project-1/">Featured Project 1</a></h3>
-    <p>Redesigning the checkout flow for a major retailer to improve conversion.</p>
+    <img src="/assets/images/project1.jpg" alt="Project 1 Image" />
+    <h3>Redesigning a Checkout Flow</h3>
+    <p>Improved e-commerce conversion by streamlining the purchase experience.</p>
+    <a class="btn btn--primary" href="/2025/04/01/featured-project-1/">View Project</a>
   </div>
   <div class="project-card">
-    <h3><a href="/2025/04/02/featured-project-2/">Featured Project 2</a></h3>
-    <p>Designing a clean and scalable UI system for a sustainability platform.</p>
+    <img src="/assets/images/project2.jpg" alt="Project 2 Image" />
+    <h3>Sustainability Platform UI</h3>
+    <p>Developed a modular, scalable interface system for a green tech startup.</p>
+    <a class="btn btn--primary" href="/2025/04/02/featured-project-2/">View Project</a>
   </div>
 </div>
 
 ## Additional Projects
 <div class="project-grid">
   <div class="project-card">
-    <h3><a href="/2025/04/03/additional-project-1/">Additional Project 1</a></h3>
-    <p>Streamlining onboarding flow for a fintech app.</p>
+    <img src="/assets/images/project3.jpg" alt="Project 3 Image" />
+    <h3>Fintech Onboarding Flow</h3>
+    <p>Reduced user friction during sign-up, increasing engagement.</p>
+    <a class="btn btn--secondary" href="/2025/04/03/additional-project-1/">View Project</a>
   </div>
   <div class="project-card">
-    <h3><a href="/2025/04/04/additional-project-2/">Additional Project 2</a></h3>
-    <p>Improving analytics dashboard usability in an enterprise tool.</p>
+    <img src="/assets/images/project4.jpg" alt="Project 4 Image" />
+    <h3>Enterprise Analytics Dashboard</h3>
+    <p>Enhanced usability and accessibility of internal analytics tools.</p>
+    <a class="btn btn--secondary" href="/2025/04/04/additional-project-2/">View Project</a>
   </div>
 </div>
 
 ## Special Projects
 <div class="project-grid">
   <div class="project-card">
-    <h3><a href="/2025/04/05/special-project-1/">Special Project 1</a></h3>
-    <p>Pro bono redesign for a mental wellness app.</p>
+    <img src="/assets/images/project5.jpg" alt="Project 5 Image" />
+    <h3>Mental Wellness App</h3>
+    <p>A pro bono redesign with a focus on emotional check-ins and clarity.</p>
+    <a class="btn btn--tertiary" href="/2025/04/05/special-project-1/">View Project</a>
   </div>
   <div class="project-card">
-    <h3><a href="/2025/04/06/special-project-2/">Special Project 2</a></h3>
-    <p>Experimental AI-based journaling interface.</p>
+    <img src="/assets/images/project6.jpg" alt="Project 6 Image" />
+    <h3>AI Journaling Interface</h3>
+    <p>An experimental project integrating generative prompts into writing.</p>
+    <a class="btn btn--tertiary" href="/2025/04/06/special-project-2/">View Project</a>
   </div>
 </div>
